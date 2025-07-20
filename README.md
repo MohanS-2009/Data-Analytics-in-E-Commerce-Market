@@ -1,7 +1,3 @@
-Sure! Here's the **styled README in plain text format** — no code block, just copy and paste directly into your GitHub `README.md` file:
-
----
-
 # 📦 Data Analytics in E-Commerce Market
 
 ![Project Status](https://img.shields.io/badge/status-complete-brightgreen)
@@ -96,10 +92,4 @@ Make **confident**, **informed**, and **value-rich** purchases.
 
 ---
 
-## 📁 File Info
-
-This README is based on the PowerPoint titled **"Data Analytics in E-Commerce Market"**, illustrating how everyday decisions can benefit from a structured analytical approach.
-
----
-
-Let me know if you'd like me to also generate a downloadable `README.md` file or embed screenshots from your slides!
+![image alt](https://raw.githubusercontent.com/MohanS-2009/Data-Analytics-in-E-Commerce-Market/refs/heads/main/Data%20Analytics%20in%20E-Commerce%20Market.png)
